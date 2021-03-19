@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88df6950-ffc4-4344-8e31-a9f9abcee3ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pzDVdg13xYMq3fQ8p9z9igSIht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\Tareas David\TEC\Semestre 3\Análisis de Algoritmos\Casos\Caso 4\AA_Caso4\Dibujo\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Draw" type="Application" factoryName="Application">
+      <module name="AA_Caso4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88df6950-ffc4-4344-8e31-a9f9abcee3ac" name="Default Changelist" comment="" />
+      <created>1616177049611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616177049611</updated>
+      <workItem from="1616177050766" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="198" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616177432006">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1374" y="198" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1616177432006" />
+    <state x="1683" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616177100515">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1683" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1616177100515" />
+    <state x="1649" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616177429664">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1649" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1616177429664" />
+  </component>
+</project>

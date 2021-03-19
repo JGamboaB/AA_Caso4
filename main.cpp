@@ -37,7 +37,7 @@ void printLines(vector<vector<int>> v){ //Extra, it isn't part of the pattern
     int i = 1;
 
     for (auto line: v){
-        cout << "Line (" << i++ << "):\tx1: "<<line.at(0)<<", y1: "<<line.at(1)<<", x2: "<<line.at(2)<<", y2: "<<line.at(3)<<endl;
+        cout << "new Line (" << line.at(0) << ", " << line.at(2) << ", " << line.at(1) << ", " << line.at(3) << ", 'black');"<< endl; //x1,x2,y1,y2,'color'
     }
 }
 
@@ -45,6 +45,3 @@ int main(){
     printLines(pattern(500,700));
     return 0;
 }
-
-//500,500
-//[[0,0,0,500],...]
